@@ -1,0 +1,4 @@
+npx creat-react-app spotify-app
+npm i axios react-spotify-web-playback spotify-web-api-node styled-components
+npm init --y
+npm i express cors dotenv lyrics-finder spotify-web-api-node
